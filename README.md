@@ -1,2 +1,2 @@
 edit file 1
-edit file 2
+edit folder 2
